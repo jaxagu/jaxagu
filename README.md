@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @jaxagu
-- 👀 I’m interested in Python, data science, effective altruism, math, and tons of random knowledge.
-- 🌱 I’m currently learning how to be a better developer.
+
